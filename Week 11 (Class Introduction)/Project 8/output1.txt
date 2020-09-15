@@ -1,0 +1,80 @@
+Enter filename: video_game_sale_2016.csv
+File not found! Please try again!
+
+Enter filename: video_game_sales_2016.csv
+
+Menu options
+    
+    1) View data by year
+    2) View data by platform
+    3) View yearly regional sales by genre
+    4) View sales by publisher
+    5) Quit
+    
+    Enter choice: 8
+Invalid option. Please Try Again!
+
+Menu options
+    
+    1) View data by year
+    2) View data by platform
+    3) View yearly regional sales by genre
+    4) View sales by publisher
+    5) Quit
+    
+    Enter choice: 1
+
+Enter year: 1900
+The selected year was not found in the data.
+
+Menu options
+    
+    1) View data by year
+    2) View data by platform
+    3) View yearly regional sales by genre
+    4) View sales by publisher
+    5) Quit
+    
+    Enter choice: 2
+
+Enter platform: sega
+The selected platform was not found in the data.
+
+Menu options
+    
+    1) View data by year
+    2) View data by platform
+    3) View yearly regional sales by genre
+    4) View sales by publisher
+    5) Quit
+    
+    Enter choice: 3
+
+Enter year: xyz
+Invalid year
+
+Menu options
+    
+    1) View data by year
+    2) View data by platform
+    3) View yearly regional sales by genre
+    4) View sales by publisher
+    5) Quit
+    
+    Enter choice: 4
+
+Enter keyword for publisher: gotta catch 'em all!
+No publisher name containing "gotta catch 'em all!" was found!
+
+Menu options
+    
+    1) View data by year
+    2) View data by platform
+    3) View yearly regional sales by genre
+    4) View sales by publisher
+    5) Quit
+    
+    Enter choice: 5
+
+Thanks for using the program!
+I'll leave you with this: "All your base are belong to us!"

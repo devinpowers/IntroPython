@@ -1,0 +1,60 @@
+
+.__   __.   ______   ______   ____    ____
+|  \ |  |  /      | /  __  \  \   \  /   /
+|   \|  | |  ,----'|  |  |  |  \   \/   / 
+|  . `  | |  |     |  |  |  |   \      /  
+|  |\   | |  `----.|  `--'  |    \    /   
+|__| \__|  \______| \______/      \__/  
+    
+Data file: 
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 1
+Country              Areas affected 
+----------------------------------------
+US                     193
+Mainland China          31
+Canada                  16
+France                  10
+Australia                9
+UK                       7
+Netherlands              4
+Denmark                  3
+Germany                  2
+Others                   2
+Plot? (y/n) y
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 2
+Country              People affected
+----------------------------------------
+Mainland China       80906
+Italy                35713
+Iran                 17361
+Spain                13910
+Germany              12332
+France               10841
+US                    8460
+South Korea           8413
+UK                    3480
+Netherlands           3191
+Plot? (y/n) y
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 5
+Stay at home. Protect your community against COVID-19

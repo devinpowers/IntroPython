@@ -1,0 +1,247 @@
+
+.__   __.   ______   ______   ____    ____
+|  \ |  |  /      | /  __  \  \   \  /   /
+|   \|  | |  ,----'|  |  |  |  \   \/   / 
+|  . `  | |  |     |  |  |  |   \      /  
+|  |\   | |  `----.|  `--'  |    \    /   
+|__| \__|  \______| \______/      \__/  
+    
+Data file: 
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 3
+Country name: us
+------------------------------
+Affected area                 
+------------------------------
+[01] Alabama                       
+[02] Alameda County, CA            
+[03] Alaska                        
+[04] Arizona                       
+[05] Arkansas                      
+[06] Ashland, NE                   
+[07] Bennington County, VT         
+[08] Bergen County, NJ             
+[09] Berkeley, CA                  
+[10] Berkshire County, MA          
+[11] Boston, MA                    
+[12] Broward County, FL            
+[13] California                    
+[14] Carver County, MN             
+[15] Charleston County, SC         
+[16] Charlotte County, FL          
+[17] Chatham County, NC            
+[18] Cherokee County, GA           
+[19] Chicago, IL                   
+[20] Clark County, NV              
+[21] Clark County, WA              
+[22] Cobb County, GA               
+[23] Collin County, TX             
+[24] Colorado                      
+[25] Connecticut                   
+[26] Contra Costa County, CA       
+[27] Cook County, IL               
+[28] Davidson County, TN           
+[29] Davis County, UT              
+[30] Delaware                      
+[31] Delaware County, PA           
+[32] Denver County, CO             
+[33] Diamond Princess cruise ship  
+[34] District of Columbia          
+[35] Douglas County, CO            
+[36] Douglas County, NE            
+[37] Douglas County, OR            
+[38] El Paso County, CO            
+[39] Fairfax County, VA            
+[40] Fairfield County, CT          
+[41] Fayette County, KY            
+[42] Florida                       
+[43] Floyd County, GA              
+[44] Fort Bend County, TX          
+[45] Fresno County, CA             
+[46] Fulton County, GA             
+[47] Georgia                       
+[48] Grafton County, NH            
+[49] Grand Princess                
+[50] Grand Princess Cruise Ship    
+[51] Grant County, WA              
+[52] Guam                          
+[53] Harford County, MD            
+[54] Harris County, TX             
+[55] Harrison County, KY           
+[56] Hawaii                        
+[57] Hendricks County, IN          
+[58] Hillsborough, FL              
+[59] Honolulu County, HI           
+[60] Hudson County, NJ             
+[61] Humboldt County, CA           
+[62] Idaho                         
+[63] Illinois                      
+[64] Indiana                       
+[65] Iowa                          
+[66] Jackson County, OR            
+[67] Jefferson County, KY          
+[68] Jefferson County, WA          
+[69] Jefferson Parish, LA          
+[70] Johnson County, IA            
+[71] Johnson County, KS            
+[72] Kansas                        
+[73] Kentucky                      
+[74] Kershaw County, SC            
+[75] King County, WA               
+[76] Kittitas County, WA           
+[77] Klamath County, OR            
+[78] Lackland, TX                  
+[79] Lackland, TX (From Diamond Princess)
+[80] Lee County, FL                
+[81] Los Angeles, CA               
+[82] Louisiana                     
+[83] Madera County, CA             
+[84] Madison, WI                   
+[85] Maine                         
+[86] Manatee County, FL            
+[87] Maricopa County, AZ           
+[88] Marion County, IN             
+[89] Marion County, OR             
+[90] Maryland                      
+[91] Massachusetts                 
+[92] Michigan                      
+[93] Middlesex County, MA          
+[94] Minnesota                     
+[95] Mississippi                   
+[96] Missouri                      
+[97] Montana                       
+[98] Montgomery County, MD         
+[99] Montgomery County, PA         
+[100] Montgomery County, TX         
+[101] Nassau County, NY             
+[102] Nebraska                      
+[103] Nevada                        
+[104] New Hampshire                 
+[105] New Jersey                    
+[106] New Mexico                    
+[107] New York                      
+[108] New York City, NY             
+[109] New York County, NY           
+[110] Norfolk County, MA            
+[111] North Carolina                
+[112] North Dakota                  
+[113] Norwell County, MA            
+[114] Ohio                          
+[115] Okaloosa County, FL           
+[116] Oklahoma                      
+[117] Omaha, NE (From Diamond Princess)
+[118] Orange County, CA             
+[119] Orange, CA                    
+[120] Oregon                        
+[121] Pennsylvania                  
+[122] Pierce County, WA             
+[123] Pinal County, AZ              
+[124] Placer County, CA             
+[125] Plymouth County, MA           
+[126] Polk County, GA               
+[127] Portland, OR                  
+[128] Providence County, RI         
+[129] Providence, RI                
+[130] Puerto Rico                   
+[131] Queens County, NY             
+[132] Ramsey County, MN             
+[133] Rhode Island                  
+[134] Riverside County, CA          
+[135] Rockingham County, NH         
+[136] Rockland County, NY           
+[137] Sacramento County, CA         
+[138] San Antonio, TX               
+[139] San Benito, CA                
+[140] San Diego County, CA          
+[141] San Francisco County, CA      
+[142] San Mateo, CA                 
+[143] Santa Clara County, CA        
+[144] Santa Clara, CA               
+[145] Santa Cruz County, CA         
+[146] Santa Rosa County, FL         
+[147] Sarasota, FL                  
+[148] Saratoga County, NY           
+[149] Seattle, WA                   
+[150] Shasta County, CA             
+[151] Shelby County, TN             
+[152] Snohomish County, WA          
+[153] Sonoma County, CA             
+[154] South Carolina                
+[155] South Dakota                  
+[156] Spartanburg County, SC        
+[157] Spokane County, WA            
+[158] St. Louis County, MO          
+[159] Suffolk County, MA            
+[160] Suffolk County, NY            
+[161] Summit County, CO             
+[162] Tempe, AZ                     
+[163] Tennessee                     
+[164] Texas                         
+[165] Travis, CA                    
+[166] Travis, CA (From Diamond Princess)
+[167] Tulsa County, OK              
+[168] US                            
+[169] Ulster County, NY             
+[170] Umatilla, OR                  
+[171] Unassigned Location (From Diamond Princess)
+[172] Unassigned Location, VT       
+[173] Unassigned Location, WA       
+[174] United States Virgin Islands  
+[175] Unknown Location, MA          
+[176] Utah                          
+[177] Vermont                       
+[178] Virgin Islands                
+[179] Virgin Islands, U.S.          
+[180] Virginia                      
+[181] Volusia County, FL            
+[182] Wake County, NC               
+[183] Washington                    
+[184] Washington County, OR         
+[185] Washington, D.C.              
+[186] Washoe County, NV             
+[187] Wayne County, PA              
+[188] West Virginia                 
+[189] Westchester County, NY        
+[190] Williamson County, TN         
+[191] Wisconsin                     
+[192] Wyoming                       
+[193] Yolo County, CA               
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 3
+Country name: randoville
+------------------------------
+Error. Country not found.
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 3
+Country name: india
+------------------------------
+Affected area                 
+------------------------------
+[01] N/A                           
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 5
+Stay at home. Protect your community against COVID-19

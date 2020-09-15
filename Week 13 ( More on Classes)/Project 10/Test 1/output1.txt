@@ -1,0 +1,290 @@
+﻿Montana Solitaire.
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣      5♥  Q♥  J♦
+  2:  2♠  3♠  4♠  5♠  6♠      7♥  9♠  K♠ 10♠  K♣  7♠  4♥
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦      K♥  8♥  6♥
+  4:  2♥      Q♦  J♠ 10♥  9♥  8♠  Q♠  3♥  K♦  Q♣  J♥  J♣
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 13 1 10
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥  J♦
+  2:  2♠  3♠  4♠  5♠  6♠      7♥  9♠  K♠ 10♠  K♣  7♠  4♥
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦      K♥  8♥  6♥
+  4:  2♥      Q♦  J♠ 10♥  9♥  8♠  Q♠  3♥  K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 9 4 2
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥  J♦
+  2:  2♠  3♠  4♠  5♠  6♠      7♥  9♠  K♠ 10♠  K♣  7♠  4♥
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦      K♥  8♥  6♥
+  4:  2♥  3♥  Q♦  J♠ 10♥  9♥  8♠  Q♠      K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 1 13 3 10
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥    
+  2:  2♠  3♠  4♠  5♠  6♠      7♥  9♠  K♠ 10♠  K♣  7♠  4♥
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  K♥  8♥  6♥
+  4:  2♥  3♥  Q♦  J♠ 10♥  9♥  8♠  Q♠      K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 3 11 1 13
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥  K♥
+  2:  2♠  3♠  4♠  5♠  6♠      7♥  9♠  K♠ 10♠  K♣  7♠  4♥
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦      8♥  6♥
+  4:  2♥  3♥  Q♦  J♠ 10♥  9♥  8♠  Q♠      K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 3 3 11
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥  K♥
+  2:  2♠  3♠  4♠  5♠  6♠      7♥  9♠  K♠ 10♠  K♣  7♠  4♥
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥      J♠ 10♥  9♥  8♠  Q♠      K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 13 4 3
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥  K♥
+  2:  2♠  3♠  4♠  5♠  6♠      7♥  9♠  K♠ 10♠  K♣  7♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  J♠ 10♥  9♥  8♠  Q♠      K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 12 2 6
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠  K♠ 10♠  K♣        
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  J♠ 10♥  9♥  8♠  Q♠      K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 9 4 9
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠     10♠  K♣        
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  J♠ 10♥  9♥  8♠  Q♠  K♠  K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 10 2 9
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠ 10♠      K♣        
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  J♠ 10♥  9♥  8♠  Q♠  K♠  K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 4 2 10
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  5♥  Q♥  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠ 10♠  J♠  K♣        
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥     10♥  9♥  8♠  Q♠  K♠  K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 1 11 4 4
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣      Q♥  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠ 10♠  J♠  K♣        
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠  Q♠  K♠  K♦  Q♣  J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 11 1 11
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  Q♥  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠ 10♠  J♠  K♣        
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠  Q♠  K♠  K♦      J♥    
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 1 12 4 13
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣      K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠ 10♠  J♠  K♣        
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠  Q♠  K♠  K♦      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 11 1 12
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠ 10♠  J♠            
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠  Q♠  K♠  K♦      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 8 2 11
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠ 10♠  J♠  Q♠        
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠      K♠  K♦      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 9 2 12
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  9♠ 10♠  J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠          K♦      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 8 4 8
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥     10♠  J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  8♥  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠  9♠      K♦      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 3 12 2 8
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  8♥ 10♠  J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦      6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠  9♠      K♦      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 10 3 12
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  8♥ 10♠  J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠  9♠              J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 9 4 9
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  8♥      J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥  9♥  8♠  9♠ 10♠          J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 6 2 9
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  8♥  9♥  J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥      8♠  9♠ 10♠          J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 10 4 10
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  8♥  9♥      Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦  6♥
+  4:  2♥  3♥  4♥  5♥ 10♥      8♠  9♠ 10♠  J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 5 2 10
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  8♥  9♥ 10♥  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦  6♥
+  4:  2♥  3♥  4♥  5♥          8♠  9♠ 10♠  J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 3 13 4 5
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  7♥  8♥  9♥ 10♥  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥      8♠  9♠ 10♠  J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 7 4 6
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠      8♥  9♥ 10♥  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♠  9♠ 10♠  J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 7 2 7
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠  8♥  9♥ 10♥  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥      9♠ 10♠  J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 8 4 7
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠      9♥ 10♥  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♥  9♠ 10♠  J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 8 2 8
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠  9♠  9♥ 10♥  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♥     10♠  J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 9 4 8
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠  9♠     10♥  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♥  9♥ 10♠  J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 9 2 9
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠  9♠ 10♠ 10♥  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♥  9♥      J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 2 10 4 9
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠  9♠ 10♠      Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♥  9♥ 10♥  J♠      J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 10 2 10
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠  9♠ 10♠  J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♥  9♥ 10♥          J♥  Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 12 4 10
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠  9♠ 10♠  J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♥  9♥ 10♥  J♥          Q♥
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 4 13 4 11
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣  K♥
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠  9♠ 10♠  J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♥  9♥ 10♥  J♥  Q♥        
+
+Enter choice:
+ (q)uit, (s)huffle, or space-separated: source_row,source_col,dest_row,dest_col: 1 13 4 12
+      1   2   3   4   5   6   7   8   9  10  11  12  13 
+  1:  2♣  3♣  4♣  5♣  6♣  7♣  8♣  9♣ 10♣  J♣  Q♣  K♣    
+  2:  2♠  3♠  4♠  5♠  6♠  7♠  8♠  9♠ 10♠  J♠  Q♠  K♠    
+  3:  2♦  3♦  4♦  5♦  6♦  7♦  8♦  9♦ 10♦  J♦  Q♦  K♦    
+  4:  2♥  3♥  4♥  5♥  6♥  7♥  8♥  9♥ 10♥  J♥  Q♥  K♥    
+You won!
+
+Do you want to play again (y/n)?n
+Thank you for playing.

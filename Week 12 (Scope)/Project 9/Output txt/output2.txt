@@ -1,0 +1,39 @@
+
+.__   __.   ______   ______   ____    ____
+|  \ |  |  /      | /  __  \  \   \  /   /
+|   \|  | |  ,----'|  |  |  |  \   \/   / 
+|  . `  | |  |     |  |  |  |   \      /  
+|  |\   | |  `----.|  `--'  |    \    /   
+|__| \__|  \______| \______/      \__/  
+    
+Data file: ncov_small.csv
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 1
+Country              Areas affected 
+----------------------------------------
+Mainland China          31
+US                       8
+Australia                4
+Canada                   3
+Belgium                  1
+Cambodia                 1
+Finland                  1
+France                   1
+Germany                  1
+Hong Kong                1
+Plot? (y/n) n
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 5
+Stay at home. Protect your community against COVID-19

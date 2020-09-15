@@ -1,0 +1,83 @@
+Enter filename: video_game_sales_small.csv
+Menu options
+    
+    1) View data by year
+    2) View data by platform
+    3) View yearly regional sales by genre
+    4) View sales by publisher
+    5) Quit
+    
+    Enter choice: 4
+Enter keyword for publisher: act
+There are 32 publisher(s) with the requested keyword!
+0   activision
+1   activision value
+2   avalon interactive
+3   bigben interactive
+4   bmg interactive entertainment
+5   disney interactive studios
+6   dreamworks interactive
+7   eidos interactive
+8   empire interactive
+9   focus home interactive
+10  fox interactive
+11  game factory
+12  gremlin interactive ltd
+13  gt interactive
+14  hasbro interactive
+15  hip interactive
+16  idea factory
+17  idea factory international
+18  marvelous interactive
+19  mattel interactive
+20  mentor interactive
+21  midas interactive entertainment
+22  simon & schuster interactive
+23  take-two interactive
+24  tdk mediactive
+25  time warner interactive
+26  tripwire interactive
+27  universal interactive
+28  victor interactive
+29  virgin interactive
+30  warner bros. interactive entertainment
+31  xicat interactive
+Select the index for the publisher to use: 5
+
+Video Games Sales for disney interactive studios
+Title                         North America  Europe         Japan          Other          Global         
+epic mickey                   2,040,000.00   630,000.00     120,000.00     220,000.00     3,010,000.00   
+who wants to be a million     1,940,000.00   0.00           0.00           0.00           1,940,000.00   
+toy story mania!              1,040,000.00   660,000.00     0.00           180,000.00     1,880,000.00   
+disney infinity               970,000.00     340,000.00     0.00           130,000.00     1,440,000.00   
+disney infinity 3.0           240,000.00     370,000.00     0.00           120,000.00     730,000.00     
+disney infinity 2.0: marv     270,000.00     250,000.00     0.00           100,000.00     620,000.00     
+epic mickey: power of ill     360,000.00     40,000.00      40,000.00      40,000.00      480,000.00     
+pirates of the caribbean:     300,000.00     10,000.00      10,000.00      30,000.00      350,000.00     
+pirates of the caribbean:     230,000.00     10,000.00      0.00           20,000.00      260,000.00     
+that's so raven: psychic      230,000.00     0.00           0.00           20,000.00      250,000.00     
+the suite life of zack &      230,000.00     0.00           0.00           20,000.00      250,000.00     
+disney stitch jam             70,000.00      0.00           160,000.00     10,000.00      240,000.00     
+disney's a christmas caro     210,000.00     10,000.00      0.00           20,000.00      240,000.00     
+the chronicles of narnia:     150,000.00     40,000.00      0.00           10,000.00      200,000.00     
+disney's home on the rang     120,000.00     40,000.00      0.00           0.00           160,000.00     
+fantasia: music evolved       110,000.00     30,000.00      0.00           10,000.00      150,000.00     
+tim burton's the nightmar     100,000.00     40,000.00      0.00           0.00           140,000.00     
+walt disney pictures pres     90,000.00      30,000.00      0.00           0.00           120,000.00     
+disney planes fire & resc     10,000.00      80,000.00      0.00           10,000.00      100,000.00     
+disney's planes               40,000.00      30,000.00      0.00           10,000.00      80,000.00      
+tron 2.0: killer app          40,000.00      20,000.00      0.00           0.00           60,000.00      
+
+Total Sales                                                                               12,700,000.00  
+Menu options
+    
+    1) View data by year
+    2) View data by platform
+    3) View yearly regional sales by genre
+    4) View sales by publisher
+    5) Quit
+    
+    Enter choice: 5
+
+Thanks for using the program!
+I'll leave you with this: "All your base are belong to us!"

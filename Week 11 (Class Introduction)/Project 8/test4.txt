@@ -1,0 +1,11 @@
+video_game_sales_2016.csv
+1
+1999
+y
+2
+gen
+y
+3
+2016
+y
+5

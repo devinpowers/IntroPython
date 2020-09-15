@@ -1,0 +1,38 @@
+
+.__   __.   ______   ______   ____    ____
+|  \ |  |  /      | /  __  \  \   \  /   /
+|   \|  | |  ,----'|  |  |  |  \   \/   / 
+|  . `  | |  |     |  |  |  |   \      /  
+|  |\   | |  `----.|  `--'  |    \    /   
+|__| \__|  \______| \______/      \__/  
+    
+Data file: random.csv
+Error. Try again.
+Data file: 
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 34
+Error. Try again.
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: idowhatiwant
+Error. Try again.
+ 
+[1] Countries with most areas infected
+[2] Countries with most people affected
+[3] Affected areas in a country
+[4] Check if a country is affected
+[5] Exit
+
+Choice: 5
+Stay at home. Protect your community against COVID-19

@@ -1,0 +1,18 @@
+"Data file: "
+"Error. Try again."
+"Error. Country not found."
+"{:<20s} {:15s}".format("Country", "Areas affected")
+"-"*40
+"{:<20s} {:5d}"
+'Plot? (y/n) '
+"{:<20s} {:15s}".format("Country", "People affected")
+"-"*40
+"{:<20s} {:5d}"
+"Country name: "
+"-"*30
+"{:<30s}".format("Affected area")
+"-"*30
+"[{:02d}] {:<30s}"
+"{} is affected."
+"{} is not affected."
+"Stay at home. Protect your community against COVID-19"
