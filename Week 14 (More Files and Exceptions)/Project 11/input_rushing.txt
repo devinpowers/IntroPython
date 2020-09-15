@@ -1,0 +1,18 @@
+rushing.txt
+U
+R
+S
+P cheatsheet
+U
+U
+R
+R
+D
+S
+P pencil
+U
+R
+P paper
+R
+P eraser
+U

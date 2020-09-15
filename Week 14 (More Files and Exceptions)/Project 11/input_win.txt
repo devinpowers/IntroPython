@@ -1,0 +1,9 @@
+room_win.txt
+U
+P pencil
+P paper
+R
+P cheatsheet
+U
+P eraser
+U

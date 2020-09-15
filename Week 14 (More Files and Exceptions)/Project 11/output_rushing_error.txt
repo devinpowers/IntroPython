@@ -1,0 +1,212 @@
+Enter a text filename: rushing.txt
+
+AHHHH! I'm late for class
+
+*runs out the house to catch the bus with an empty backpack*
+
+You're popular and have friends in many classes. Find and collect any items you find useful for your exam.
+You are already late, and have a CSE231 Final Exam in 10 mins.
+
+Use your instincts: 
+*thinks*.. *thinks*.. what to do?!?!?!?!
+*running*
+S or search -- prints a description of the classroom you ran into
+B or backpack - prints a list of items in your backpack
+P pencil or pickup pencil - *mental* instruction to pick up an item called pencil
+DR pencil or drop pencil - *mental* instruction to drop off an item called pencil
+U or up - *mental* instruction to up the hallway to find another classroom
+D or down - *mental* instruction to down the hallway to find another classroom
+R or right - *mental* instruction to right in the hallway to find another classroom
+L or left - *mental* instruction to left in the hallway to find another classroom
+G or giveup - I have no more time, I need to get to class!!!
+H or help - prints this list of options again
+
+Remember that uppercase and lowercase SHOULD NOT matter. 
+JUST GRAB WHAT YOU NEED AND GET TO CLASS TO START YOUR FINAL EXAM!!! HURRYYYY!!!
+
+You see a empty classroom. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Up.
+In room 1 with course empty
+Backpack: Empty
+
+Enter a command (H for help): D
+
+Unfortunately, you went Down and there was no classroom.
+In room 1 with course empty
+Backpack: Empty
+
+Enter a command (H for help): u
+
+You went Up and found a new classroom.
+In room 2 with course MTH132
+Backpack: Empty
+
+Enter a command (H for help): p book
+
+In room 2 with course MTH132
+Backpack: book
+
+Enter a command (H for help): l
+
+You went Left and found a new classroom.
+In room 3 with course CM161
+Backpack: book
+
+Enter a command (H for help): p testtube
+
+In room 3 with course CM161
+Backpack: book, testtube
+
+Enter a command (H for help): s
+
+You see a CM161 classroom. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Right or Up.
+In room 3 with course CM161
+Backpack: book, testtube
+
+Enter a command (H for help): u
+
+You went Up and found a new classroom.
+In room 6 with course MSE250
+Backpack: book, testtube
+
+Enter a command (H for help): p pen
+
+In room 6 with course MSE250
+Backpack: book, testtube, pen
+
+Enter a command (H for help): s
+
+You see a MSE250 classroom. On the desk you see a book and a eraser. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Down, Up, or Left.
+In room 6 with course MSE250
+Backpack: book, testtube, pen
+
+Enter a command (H for help): p eraser
+
+In room 6 with course MSE250
+Backpack: book, testtube, pen, eraser
+
+Enter a command (H for help): s
+
+You see a MSE250 classroom. On the desk you see a book. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Down, Up, or Left.
+In room 6 with course MSE250
+Backpack: book, testtube, pen, eraser
+
+Enter a command (H for help): u
+
+You went Up and found a new classroom.
+In room 10 with course CSE231
+Backpack: book, testtube, pen, eraser
+
+Enter a command (H for help): s
+
+You see a CSE231 classroom. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Left, Down, or Right.
+In room 10 with course CSE231
+Backpack: book, testtube, pen, eraser
+
+Enter a command (H for help): dr book
+
+In room 10 with course CSE231
+Backpack: testtube, pen, eraser
+
+Enter a command (H for help): s
+
+You see a CSE231 classroom. On the desk you see a book. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Left, Down, or Right.
+In room 10 with course CSE231
+Backpack: testtube, pen, eraser
+
+Enter a command (H for help): d
+
+You went Down and found a new classroom.
+In room 15 with course HNF400
+Backpack: testtube, pen, eraser
+
+Enter a command (H for help): p towel
+
+In room 15 with course HNF400
+Backpack: testtube, pen, eraser, towel
+
+Enter a command (H for help): p bathrobe
+
+In room 15 with course HNF400
+Backpack: testtube, pen, eraser, towel, bathrobe
+
+Enter a command (H for help): s
+
+You see a HNF400 classroom. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Left or Down.
+In room 15 with course HNF400
+Backpack: testtube, pen, eraser, towel, bathrobe
+
+Enter a command (H for help): d
+
+You went Down and found a new classroom.
+In room 10 with course CSE231
+Backpack: testtube, pen, eraser, towel, bathrobe
+
+Enter a command (H for help): p book
+
+In room 10 with course CSE231
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): s
+
+You see a CSE231 classroom. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Left, Down, or Right.
+In room 10 with course CSE231
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): l
+
+You went Left and found a new classroom.
+In room 7 with course MMG201
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): s
+
+You see a MMG201 classroom. On the desk you see a microscope, a glass, a glove, and a stapler. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Down or Up.
+In room 7 with course MMG201
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): p stapler
+
+Backpack is full.
+In room 7 with course MMG201
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): s
+
+You see a MMG201 classroom. On the desk you see a microscope, a glass, and a glove. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Down or Up.
+In room 7 with course MMG201
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): dr stapler
+
+Failed to remove item from backpack.
+In room 7 with course MMG201
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): s
+
+You see a MMG201 classroom. On the desk you see a microscope, a glass, and a glove. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Down or Up.
+In room 7 with course MMG201
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): r
+
+Unfortunately, you went Right and there was no classroom.
+In room 7 with course MMG201
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): s
+
+You see a MMG201 classroom. On the desk you see a microscope, a glass, and a glove. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Down or Up.
+In room 7 with course MMG201
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): p pencil
+
+Failure to find the item in the classroom.
+In room 7 with course MMG201
+Backpack: testtube, pen, eraser, towel, bathrobe, book
+
+Enter a command (H for help): q
+
+Unfortunately, that's not a valid option.
+Thank you for playing

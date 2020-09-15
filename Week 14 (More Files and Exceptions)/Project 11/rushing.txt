@@ -1,0 +1,20 @@
+1 empty U2
+2 MTH132 book D1 L3 R4
+3 CM161 testtube R2 U6
+4 MTH235 cheatsheet L2 U7
+5 BS161 paper R6
+6 MSE250 D3 U9 book pen eraser L5 U10
+7 MMG201 D4 U10 microscope glass glove stapler
+8 ME211 U12 pencil dress boot
+9 PHY191 magnet D6 U13
+10 CSE231 L7 D15 R11
+11 EGR100 L10 paint R12
+12 ME201 usb button ribbon string needle spoon spool L11 U16 D8 R5
+13 PLS321 robe U17 D9 R14 eraser flag
+14 FS1101 R15 L13 cereal milk
+15 HNF400 L14 D10 towel bathrobe
+16 CSE802 D12 notebook highlighter
+17 CEM845 U19 D13 hydrogen
+18 CSE803 R19 robot camera phone cheatsheet helmet
+19 AST208 D17 map pictures L18 R20
+20 CSE101 L19 charger pen protracter

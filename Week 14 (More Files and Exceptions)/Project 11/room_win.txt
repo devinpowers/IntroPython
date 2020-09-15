@@ -1,0 +1,5 @@
+1 empty U2
+2 MTH132 pencil paper D1 L3 R4
+3 CM161 eraser R2 U5
+4 MTH235 cheatsheet L2 U3
+5 CSE231 L4 D1 R2

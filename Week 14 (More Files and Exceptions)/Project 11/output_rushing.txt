@@ -1,0 +1,126 @@
+Enter a text filename: rushing.txt
+
+AHHHH! I'm late for class
+
+*runs out the house to catch the bus with an empty backpack*
+
+You're popular and have friends in many classes. Find and collect any items you find useful for your exam.
+You are already late, and have a CSE231 Final Exam in 10 mins.
+
+Use your instincts: 
+*thinks*.. *thinks*.. what to do?!?!?!?!
+*running*
+S or search -- prints a description of the classroom you ran into
+B or backpack - prints a list of items in your backpack
+P pencil or pickup pencil - *mental* instruction to pick up an item called pencil
+DR pencil or drop pencil - *mental* instruction to drop off an item called pencil
+U or up - *mental* instruction to up the hallway to find another classroom
+D or down - *mental* instruction to down the hallway to find another classroom
+R or right - *mental* instruction to right in the hallway to find another classroom
+L or left - *mental* instruction to left in the hallway to find another classroom
+G or giveup - I have no more time, I need to get to class!!!
+H or help - prints this list of options again
+
+Remember that uppercase and lowercase SHOULD NOT matter. 
+JUST GRAB WHAT YOU NEED AND GET TO CLASS TO START YOUR FINAL EXAM!!! HURRYYYY!!!
+
+You see a empty classroom. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Up.
+In room 1 with course empty
+Backpack: Empty
+
+Enter a command (H for help): U
+
+You went Up and found a new classroom.
+In room 2 with course MTH132
+Backpack: Empty
+
+Enter a command (H for help): R
+
+You went Right and found a new classroom.
+In room 4 with course MTH235
+Backpack: Empty
+
+Enter a command (H for help): S
+
+You see a MTH235 classroom. On the desk you see a cheatsheet. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Left or Up.
+In room 4 with course MTH235
+Backpack: Empty
+
+Enter a command (H for help): P cheatsheet
+
+In room 4 with course MTH235
+Backpack: cheatsheet
+
+Enter a command (H for help): U
+
+You went Up and found a new classroom.
+In room 7 with course MMG201
+Backpack: cheatsheet
+
+Enter a command (H for help): U
+
+You went Up and found a new classroom.
+In room 10 with course CSE231
+Backpack: cheatsheet
+
+Enter a command (H for help): R
+
+You went Right and found a new classroom.
+In room 11 with course EGR100
+Backpack: cheatsheet
+
+Enter a command (H for help): R
+
+You went Right and found a new classroom.
+In room 12 with course ME201
+Backpack: cheatsheet
+
+Enter a command (H for help): D
+
+You went Down and found a new classroom.
+In room 8 with course ME211
+Backpack: cheatsheet
+
+Enter a command (H for help): S
+
+You see a ME211 classroom. On the desk you see a pencil, a dress, and a boot. Run through the classroom grab what you need (if possible). Now, run into the hallway and go Up.
+In room 8 with course ME211
+Backpack: cheatsheet
+
+Enter a command (H for help): P pencil
+
+In room 8 with course ME211
+Backpack: cheatsheet, pencil
+
+Enter a command (H for help): U
+
+You went Up and found a new classroom.
+In room 12 with course ME201
+Backpack: cheatsheet, pencil
+
+Enter a command (H for help): R
+
+You went Right and found a new classroom.
+In room 5 with course BS161
+Backpack: cheatsheet, pencil
+
+Enter a command (H for help): P paper
+
+In room 5 with course BS161
+Backpack: cheatsheet, pencil, paper
+
+Enter a command (H for help): R
+
+You went Right and found a new classroom.
+In room 6 with course MSE250
+Backpack: cheatsheet, pencil, paper
+
+Enter a command (H for help): P eraser
+
+In room 6 with course MSE250
+Backpack: cheatsheet, pencil, paper, eraser
+
+Enter a command (H for help): U
+
+You went Up and found a new classroom.
+You succeeded!

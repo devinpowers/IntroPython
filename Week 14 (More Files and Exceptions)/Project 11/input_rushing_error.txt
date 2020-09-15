@@ -1,0 +1,33 @@
+rushing.txt
+D
+u
+p book
+l
+p testtube
+s
+u
+p pen
+s
+p eraser
+s
+u
+s
+dr book
+s
+d
+p towel
+p bathrobe
+s
+d
+p book
+s
+l
+s
+p stapler
+s
+dr stapler
+s
+r
+s
+p pencil
+q
