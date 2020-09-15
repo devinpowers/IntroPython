@@ -1,7 +1,7 @@
 
 # Michigan State University CSE 231 Python Course
 
-In this Repository, I worked through Michigan State University CSE 231 Intro to Python Class. I wasn’t enrolled in the class but since all the projects and information were available online, I knew this was a good opportunity to learn and measure my understanding of concepts. I quickly fell in love with the class and worked on it through the COVID Quarantine. I had no problem doing Projects 1-8, then we got to classes and I moved on and wanted to learn “Classes and OPP” from other sources. The challenging thing about taking a class you’re not enrolled in is not being to ask questions relating to the Projects. Being able to complete up to OOP programming Projects gave me the confidence to purse become a Software Engineer on the day. I didn't understand 
+In this Repository, I worked through Michigan State University CSE 231 Intro to Python Class. I wasn’t enrolled in the class but since all the projects and information were available online, I knew this was a good opportunity to learn and measure my understanding of concepts. I quickly fell in love with the class and worked on it through the COVID Quarantine. I had no problem doing Projects 1-8, then we got to classes and I moved on and wanted to learn “Classes and OPP” from other sources. The challenging thing about taking a class you’re not enrolled in is not being to ask questions relating to the Projects. Being able to complete up to OOP programming Projects gave me the confidence to purse become a Software Engineer on the day.
 
 
 In Each week folder contains the Labs and Projects I worked on. 
