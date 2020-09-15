@@ -1,0 +1,3 @@
+James, Lebron       32   42   34  56
+Durant, Kevin          23    17  42  51
+Curry, Stephen       34  21  32  20
