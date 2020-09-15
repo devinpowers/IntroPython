@@ -1,0 +1,39 @@
+
+Please choose one of the options below:
+             A. Display the sum of squares of the first N natural numbers. 
+             B. Display the approximate value of Pi.
+             C. Display the approximate value of the sine of X.
+             D. Display the approximate value of the cosine of X.
+             M. Display the menu of options.
+             X. Exit from the program.
+
+	Enter option: b
+
+	Approximation: 3.1415924536
+	Math module:   3.1415926536
+	difference:    0.0000000200
+
+	Enter option: C
+
+	Enter X: a
+
+	Error: X was not a valid float. [a]
+
+	Enter option: c
+
+	Enter X: 1.5
+
+	Approximation: 0.9974949557
+	Math module:   0.9974949866
+	difference:    0.0000000309
+
+	Enter option: C
+
+	Enter X: 0
+
+	Approximation: 0.0000000000
+	Math module:   0.0000000000
+	difference:    0.0000000000
+
+	Enter option: x
+Hope to see you again.

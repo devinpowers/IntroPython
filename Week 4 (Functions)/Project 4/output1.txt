@@ -1,0 +1,33 @@
+
+Please choose one of the options below:
+             A. Display the sum of squares of the first N natural numbers. 
+             B. Display the approximate value of Pi.
+             C. Display the approximate value of the sine of X.
+             D. Display the approximate value of the cosine of X.
+             M. Display the menu of options.
+             X. Exit from the program.
+
+	Enter option: n
+
+Error:  unrecognized option [N]
+
+Please choose one of the options below:
+             A. Display the sum of squares of the first N natural numbers. 
+             B. Display the approximate value of Pi.
+             C. Display the approximate value of the sine of X.
+             D. Display the approximate value of the cosine of X.
+             M. Display the menu of options.
+             X. Exit from the program.
+
+	Enter option: M
+
+Please choose one of the options below:
+             A. Display the sum of squares of the first N natural numbers. 
+             B. Display the approximate value of Pi.
+             C. Display the approximate value of the sine of X.
+             D. Display the approximate value of the cosine of X.
+             M. Display the menu of options.
+             X. Exit from the program.
+
+	Enter option: X
+Hope to see you again.
